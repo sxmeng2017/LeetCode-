@@ -1,0 +1,13 @@
+class Solution:
+    def hIndex(self, citations: List[int]) -> int:
+        if len(citations) < 1:
+            return 0
+        c = sorted(citations, reverse=True)
+        for index, item in enumerate(c):
+            if item > index:
+                continue
+            return index
+        return index
+这样编写和用while有巨大的区别，就是在index上
+这里的index是在有的基础上前移，
+while是在原先的基础上增加。这两者明显后者更符合该题要求
