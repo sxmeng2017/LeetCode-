@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d69bd5de-455b-4b95-8094-153ce1c8554d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/分治思想/215.数组中第K个最大元素/672_14.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排序/75.颜色分类/60_13.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排序/75.颜色分类/总结" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/324.摆动排序||/212_16.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +52,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/排序/75.颜色分类/总结">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="334">
               <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/排序/324.摆动排序||/212_16.2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -116,12 +123,13 @@
         <option value="$PROJECT_DIR$/分治思想/215.数组中第K个最大元素/672_14.8.py" />
         <option value="$PROJECT_DIR$/排序/75.颜色分类/60_13.7.py" />
         <option value="$PROJECT_DIR$/排序/75.颜色分类/总结" />
+        <option value="$PROJECT_DIR$/排序/324.摆动排序||/212_16.2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="345" />
-    <option name="y" value="172" />
+    <option name="x" value="357" />
+    <option name="y" value="155" />
     <option name="width" value="1002" />
     <option name="height" value="663" />
   </component>
@@ -184,6 +192,12 @@
               <item name="排序" type="462c0819:PsiDirectoryNode" />
               <item name="315.计算右侧小于当前元素的个数" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode刷题记录" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode刷题记录" type="462c0819:PsiDirectoryNode" />
+              <item name="排序" type="462c0819:PsiDirectoryNode" />
+              <item name="324.摆动排序||" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -221,10 +235,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="345" y="172" width="1002" height="663" extended-state="0" />
+    <frame x="357" y="155" width="1002" height="663" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22426096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22426096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,7 +251,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32749563" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.30122593" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.30122593" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -445,6 +459,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序/324.摆动排序||/212_16.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
