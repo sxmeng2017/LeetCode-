@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d69bd5de-455b-4b95-8094-153ce1c8554d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/排序/969.煎饼排序/52_13.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排序/969.煎饼排序/56_13.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排序/976.三角形的最大周长/256_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排序/976.三角形的最大周长/300_15.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/62.不同路径/36_13.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/62.不同路径/44_13.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/62.不同路径/44_13.7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/62.不同路径/迷之bug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,64 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序/324.摆动排序||/212_16.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序/524.通过删除字母匹配到字典最长的单词/356_16.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序/767.重构字符串/48_13.7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序/853.车队/232_16.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序/922.按奇偶排序数组||/240_16.1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序/922.按奇偶排序数组||/352_16.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/排序/976.三角形的最大周长/300_15.1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -86,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/排序/976.三角形的最大周长/256_15.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -95,16 +41,70 @@
         <entry file="file://$PROJECT_DIR$/排序/969.煎饼排序/56_13.8.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/排序/969.煎饼排序/52_13.8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/排序/973.最接近原点的k个点/868_19.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/排序/973.最接近原点的k个点/784_19.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划/62.不同路径/44_13.7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划/62.不同路径/44_13.7_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划/62.不同路径/36_13.8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/排序/969.煎饼排序/52_13.8.py">
+        <entry file="file://$PROJECT_DIR$/动态规划/62.不同路径/迷之bug">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="334">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -129,11 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1207.独一无二的出现次数/52_14.py" />
-        <option value="$PROJECT_DIR$/1207.独一无二的出现次数/44_13.7.py" />
-        <option value="$PROJECT_DIR$/1207.独一无二的出现次数/48_13.8.py" />
-        <option value="$PROJECT_DIR$/1207.独一无二的出现次数/36_13.8.py" />
-        <option value="$PROJECT_DIR$/1207.独一无二的出现次数/总结" />
         <option value="$PROJECT_DIR$/排序/56.合并区间/104_15.7.py" />
         <option value="$PROJECT_DIR$/排序/57.插入区间/108_17.2.py" />
         <option value="$PROJECT_DIR$/排序/57.插入区间/108_17.2_2.py" />
@@ -179,6 +174,12 @@
         <option value="$PROJECT_DIR$/排序/976.三角形的最大周长/256_15.py" />
         <option value="$PROJECT_DIR$/排序/969.煎饼排序/56_13.8.py" />
         <option value="$PROJECT_DIR$/排序/969.煎饼排序/52_13.8.py" />
+        <option value="$PROJECT_DIR$/排序/973.最接近原点的k个点/868_19.py" />
+        <option value="$PROJECT_DIR$/排序/973.最接近原点的k个点/784_19.3.py" />
+        <option value="$PROJECT_DIR$/动态规划/62.不同路径/44_13.7.py" />
+        <option value="$PROJECT_DIR$/动态规划/62.不同路径/44_13.7_2.py" />
+        <option value="$PROJECT_DIR$/动态规划/62.不同路径/36_13.8.py" />
+        <option value="$PROJECT_DIR$/动态规划/62.不同路径/迷之bug" />
       </list>
     </option>
   </component>
@@ -214,6 +215,17 @@
             <path>
               <item name="LeetCode刷题记录" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode刷题记录" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode刷题记录" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode刷题记录" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="62.不同路径" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode刷题记录" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode刷题记录" type="462c0819:PsiDirectoryNode" />
               <item name="排序" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -233,6 +245,12 @@
               <item name="LeetCode刷题记录" type="462c0819:PsiDirectoryNode" />
               <item name="排序" type="462c0819:PsiDirectoryNode" />
               <item name="922.按奇偶排序数组||" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode刷题记录" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode刷题记录" type="462c0819:PsiDirectoryNode" />
+              <item name="排序" type="462c0819:PsiDirectoryNode" />
+              <item name="973.最接近原点的k个点" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,7 +289,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="613" y="131" width="1002" height="663" extended-state="0" />
+    <frame x="438" y="75" width="1002" height="663" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22426096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -293,22 +312,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1207.独一无二的出现次数/52_14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/tent.py" />
-    <entry file="file://$PROJECT_DIR$/1207.独一无二的出现次数/总结">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/排序/56.合并区间/104_15.7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -583,28 +586,70 @@
     <entry file="file://$PROJECT_DIR$/排序/976.三角形的最大周长/300_15.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/排序/976.三角形的最大周长/256_15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/排序/969.煎饼排序/56_13.8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/排序/969.煎饼排序/52_13.8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序/973.最接近原点的k个点/868_19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序/973.最接近原点的k个点/784_19.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/62.不同路径/44_13.7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/62.不同路径/44_13.7_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/62.不同路径/36_13.8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/62.不同路径/迷之bug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
